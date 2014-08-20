@@ -5,7 +5,7 @@ travis-w-android-and-gradle
 
 | Branch | Status |
 | :-------- | :-------- |
-| master |  [![Build Status](https://travis-ci.org/thalescm/travis-w-android-and-gradle.png?branch=master)](https://travis-ci.org/thalescm/travis-w-android-and-gradle) |
+| master |  [![Build Status](http://img.shields.io/travis/cybertk/travis-w-android-and-gradle.svg?stype=flat)](https://travis-ci.org/cybertk/travis-w-android-and-gradle) |
 
 --- 
 
